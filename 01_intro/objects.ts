@@ -16,6 +16,4 @@ function createCourse(): { name: string; isPaid: boolean; price: number } {
 
 
 
-
-
 export {};
